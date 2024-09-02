@@ -5,7 +5,7 @@
 The insurance industry deals with vast amounts of data, and understanding this data is crucial for improving business operations. This dashboard is designed to give a comprehensive view of the claims data, showcasing key metrics such as premium amounts, coverage amounts, claim statuses, policy types, and customer activity. The dashboard also incorporates role-level security (RLS) to ensure that users can only view data relevant to their roles.
 
 ## Key Features
-- Interactive Dashboard: Users can filter the data by policy number, claim number, and customer ID to view specific information.
+- **Interactive Dashboard:** Users can filter the data by policy number, claim number, and customer ID to view specific information.
 
 - **Premium Amount and Coverage Amount:** Displays the total premium collected and the total coverage amount, providing a snapshot of the financial scale of the business.
 
